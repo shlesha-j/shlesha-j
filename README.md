@@ -1,52 +1,118 @@
-Hi 👋 I'm Shlesha Joshi
-Frontend Developer | React.js | Next.js | JavaScript | TypeScript
+# Hi there, I'm Shlesha Joshi 👋
 
-🚀 Frontend Developer with 1+ years of experience building scalable and responsive web applications using React.js, Next.js, JavaScript, HTML, CSS, Tailwind CSS and SCSS.
+### Frontend Developer | React.js | Next.js | JavaScript
 
-Currently working on:
+I'm a Frontend Developer with **1+ year of experience** building responsive, accessible, and high-performance web applications. I enjoy creating clean user interfaces, solving real-world problems, and continuously learning modern frontend technologies.
 
-⚡ React & Next.js Projects
-🤖 AI-powered Frontend Applications
-🏗 System Design Learning
-✍ Writing technical blogs on Hashnode
+- 💼 Frontend Developer
+- 🌱 Currently learning **System Design**, **TypeScript**, and **GenAI Integration**
+- ✍️ Writing technical blogs on **Hashnode**
+- 🚀 Interested in React, Next.js, Performance Optimization & AI-powered applications
+- 📫 Reach me: **your-email@example.com**
 
-💻 Tech Stack
-JavaScript
-TypeScript
-React.js
-Next.js
-Redux Toolkit
-Tailwind CSS
-HTML & CSS
-SCSS
-Bootstrap
-WordPress
-Git
-GitHub
-Supabase
-Firebase
-Node.js (Basics)
-Accessibility
+---
 
-📚 Currently Learning
-System Design
-TypeScript
-GenAI Integration
-Design Patterns
-Performance Optimization
+## 🚀 Tech Stack
 
-✍ Latest Blogs
+### Languages
 
-Add your Hashnode blogs here.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-Client Server Architecture
-JavaScript Undefined vs Null
-More coming...
+### Frontend
 
-📫 Connect With Me
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-LinkedIn: www.linkedin.com/in/shlesha-j
+### Styling
 
-Hashnode: https://hashnode.com/@shlesha
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-Email: joshishlesha33@gmail.com
+### Backend & Database
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### CMS
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 🌟 Featured Projects
+
+### 📝 Next.js Blog Platform
+
+A responsive blog application built with **Next.js** and **Supabase** featuring CRUD operations, authentication, and image uploads.
+
+### 🤖 AI Smart Search
+
+An AI-powered semantic search interface built with React, Next.js, and Gemini API.
+
+### 📋 Multi-Step Form
+
+A reusable React multi-step form with validation and responsive UI.
+
+### ⚛️ React 30 Days Challenge
+
+A collection of React concepts and mini-projects built daily.
+
+---
+
+## 📚 Currently Learning
+
+- System Design
+- TypeScript
+- Next.js Advanced Concepts
+- Performance Optimization
+- AI Integration in Frontend
+- Design Patterns
+
+---
+
+## 📈 GitHub Stats
+
+![Shlesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shlesha-j&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shlesha-j&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=shlesha-j&theme=github-dark&hide_border=true)
+
+---
+
+## ✍️ Latest Blog Posts
+
+- Understanding Client-Server Architecture
+- Undefined vs Null in JavaScript
+- More blogs coming soon...
+
+---
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
+
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](YOUR_HASHNODE_URL)
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
