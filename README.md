@@ -97,9 +97,15 @@ A collection of React concepts and mini-projects built daily.
 
 ## 📈 GitHub Stats
 
-![Shlesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shlesha-j&show_icons=true&theme=github_dark&hide_border=true)
+![Shlesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shlesha-j&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shlesha-j&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=shlesha-j&theme=algolia&no-frame=true&margin-w=10)
 
 ---
 
