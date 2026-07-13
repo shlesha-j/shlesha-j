@@ -8,7 +8,7 @@ I'm a Frontend Developer with **1+ year of experience** building responsive, acc
 - 🌱 Currently learning **System Design**, **TypeScript**, and **GenAI Integration**
 - ✍️ Writing technical blogs on **Hashnode**
 - 🚀 Interested in React, Next.js, Performance Optimization & AI-powered applications
-- 📫 Reach me: **your-email@example.com**
+- 📫 Reach me: **joshishlesha33@gmail.com**
 
 ---
 
@@ -27,6 +27,15 @@ I'm a Frontend Developer with **1+ year of experience** building responsive, acc
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### Accessibility
+
+![WCAG](https://img.shields.io/badge/WCAG_2.1-005A9C?style=for-the-badge&logo=w3c&logoColor=white)
+![Accessibility](https://img.shields.io/badge/Web_Accessibility-00897B?style=for-the-badge&logo=a11y&logoColor=white)
+![ARIA](https://img.shields.io/badge/WAI--ARIA-4B32C3?style=for-the-badge&logo=w3c&logoColor=white)
+![Semantic HTML](https://img.shields.io/badge/Semantic_HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Keyboard Navigation](https://img.shields.io/badge/Keyboard_Navigation-2E7D32?style=for-the-badge)
+![Screen Reader](https://img.shields.io/badge/Screen_Reader_Testing-1976D2?style=for-the-badge)
 
 ### Styling
 
@@ -57,14 +66,17 @@ I'm a Frontend Developer with **1+ year of experience** building responsive, acc
 ### 📝 Next.js Blog Platform
 
 A responsive blog application built with **Next.js** and **Supabase** featuring CRUD operations, authentication, and image uploads.
+🔗 Live Demo: https://next-js-blog-app-livid.vercel.app/
 
 ### 🤖 AI Smart Search
 
 An AI-powered semantic search interface built with React, Next.js, and Gemini API.
+🔗 Live Demo: https://ai-smart-search-mu.vercel.app/
 
 ### 📋 Multi-Step Form
 
 A reusable React multi-step form with validation and responsive UI.
+🔗 Live Demo: https://jade-gelato-93172f.netlify.app/
 
 ### ⚛️ React 30 Days Challenge
 
@@ -107,11 +119,9 @@ A collection of React concepts and mini-projects built daily.
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shlesha-j/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
-
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](YOUR_HASHNODE_URL)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@shlesha)
 
 ---
 
